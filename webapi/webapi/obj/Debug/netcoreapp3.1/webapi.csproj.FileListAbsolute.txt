@@ -1,0 +1,121 @@
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEBAPI\api\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.AssemblyReference.cache
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\webapi.styles.css
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\WEBAPI\api\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\webAPI_ui\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.AssemblyReference.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+D:\webAPI_ui\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.AssemblyReference.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\My PC\OneDrive - ctu.edu.vn\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.AssemblyReference.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\Desktop\WebNienLuanCS\webapi\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
